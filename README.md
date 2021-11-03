@@ -1,6 +1,6 @@
 # AnyShaderAnywhere
 
-A [NeosModLoader](https://github.com/zkxs/NeosModLoader) mod for [Neos VR](https://neos.com/) that lets you use any StaticShader in any Material. only works if everyone in the session is using the mod.
+A [NeosModLoader](https://github.com/zkxs/NeosModLoader) mod for [Neos VR](https://neos.com/) that lets you use any StaticShader in any Material. only works if everyone in the session is using the mod. This mod becomes more useful when use in combination with [AllShadersValid](https://github.com/EIA485/NeosAllShadersValid)
 
 ## Installation
 1. Install [NeosModLoader](https://github.com/zkxs/NeosModLoader).
